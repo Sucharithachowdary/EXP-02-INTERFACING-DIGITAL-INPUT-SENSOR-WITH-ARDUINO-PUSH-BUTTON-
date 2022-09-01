@@ -25,17 +25,17 @@ Flash Memory	16 KB (ATmega168) or 32 KB (ATmega328) of which 2 KB used by boot l
 SRAM	1 KB (ATmega168) or 2 KB (ATmega328)
 EEPROM	512 bytes (ATmega168) or 1 KB (ATmega328)
 Clock Speed	16 MHz
-PIN DIAGRAM FOR ATMEGA 328
+
+###PIN DIAGRAM FOR ATMEGA 328
  
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
 
-FIGURE-01
+### FIGURE-01
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
-
-
 FIGURE-02
-PROCEDURE 
+
+### PROCEDURE 
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
 2.	Connect the circuit as given in the figure 
@@ -43,23 +43,16 @@ PROCEDURE
 4.	 .Execute the program 
 5.	Check the simulation 
 
-
-
-
-
-
-
-
-CIRCUIT DIAGRAM 
+### CIRCUIT DIAGRAM 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
-BEFORE SIMULATION
+### BEFORE SIMULATION
 ![OUTPUT](https://github.com/Sucharithachowdary/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/before.jpg?RAW=TRUE)
 
 FIGURE -03
 
-PROGRAM 
+### PROGRAM 
 ```
 NAME:K.SUCHARITHA
 REF NO:212221240021
@@ -86,6 +79,8 @@ void loop()
   }
 }
 ```
-Output of the simulation :
+### Output of the simulation :
 ![OUTPUT](https://github.com/Sucharithachowdary/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/ex1.jpg?RAW=TRUE)
 
+### RESULT
+Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
