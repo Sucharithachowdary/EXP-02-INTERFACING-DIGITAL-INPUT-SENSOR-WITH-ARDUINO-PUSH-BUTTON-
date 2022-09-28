@@ -48,7 +48,7 @@ FIGURE-02
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
 ### BEFORE SIMULATION
-![OUTPUT](https://github.com/Sucharithachowdary/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/before.jpg?RAW=TRUE)
+![OUTPUT](https://github.com/Sucharithachowdary/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/s1.png?RAW=TRUE)
 
 FIGURE -03
 
@@ -80,7 +80,7 @@ void loop()
 }
 ```
 ### Output of the simulation :
-![OUTPUT](https://github.com/Sucharithachowdary/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/ex1.jpg?RAW=TRUE)
+![OUTPUT](https://github.com/Sucharithachowdary/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/s2.png?RAW=TRUE)
 
 ### RESULT
 Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
